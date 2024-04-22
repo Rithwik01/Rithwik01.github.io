@@ -1,4 +1,5 @@
 title: Rithwik Kamalesh
-
-
+#logo: /assets/img/
+description: text below image
+show downlaods: true
 theme: jekyll-theme-minimal
