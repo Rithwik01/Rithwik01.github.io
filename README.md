@@ -45,8 +45,7 @@ I am a Data Science student at Georgia State University, with a strong backgroun
 ## Education
 
 - **Georgia State University** (Expected Dec 2024)
-  - Bachelor of Science in Computer Science
-  - GPA: 3.52/4.0
-  - Relevant Coursework: Fundamentals of Data Science, Data Mining, Software Engineering, Data Structures, and Linear Algebra
+  - Bachelor in Data Science
+  - Relevant Coursework: Fundamentals of Data Science, Data Mining, Software Engineering, Data Structures, Database structures and Linear Algebra
 
 Feel free to explore my projects and contributions on GitHub. If you have any questions or would like to collaborate, please don't hesitate to reach out!
