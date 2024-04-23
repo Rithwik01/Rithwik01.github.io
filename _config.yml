@@ -3,6 +3,3 @@ title: Rithwik Kamalesh
 #description: text below image
 show downlaods: true
 theme: jekyll-remote-theme
-body {
-    background-color: #c0c0c0; /* Silverish color */
-}
