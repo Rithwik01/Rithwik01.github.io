@@ -19,7 +19,8 @@ I am a Data Science student at Georgia State University, with a strong backgroun
 - Achieved a test accuracy of 92.9 percent post-training over 50 epochs, demonstrating robust image classification capability.
 - Utilized diverse layers including Conv2D, MaxPooling2D, BatchNormalization, and Dropout, enhancing model's ability to capture intricate image features.
 - Implemented techniques like one-hot encoding, data normalization, and Adam optimizer (learning rate: 0.001) for efficient training and improved performance. Additionally, evaluated model performance using a confusion matrix for comprehensive insights.
-
+- Utilized TensorFlow within Keras to power neural network operations, enabling smooth model development, training, and evaluation for image classification.
+  
 [Image Classification Project
 ](https://github.com/Rithwik01/Image-classification-project)
 ### Data Visualization
