@@ -54,7 +54,7 @@ I am a Data Science student at Georgia State University, with a strong backgroun
 
 ## Education
 
-- **Georgia State University** (Expected Dec 2024)
+- **Georgia State University** (Graduated Dec 2024)
   - Bachelor in Data Science
   - Relevant Coursework: Fundamentals of Data Science, Data Mining, Software Engineering, Data Structures, Database structures and Linear Algebra
 
